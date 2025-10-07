@@ -31,7 +31,7 @@ The table will open in a spreadsheet-style view showing all activities, delivera
 | **Title**                  | Combines the Deliverable and Issue Name (e.g., *Project Schedule – Identify Critical Path*). |
 | **Activity / Deliverable** | The specific deliverable taken from the MS Project WBS.                                      |
 | **Issue Name**             | The task or activity under that deliverable.                                                 |
-| **Assignees issue name (Text)**       | The stakeholder responsible for the task (Sontaga, Remo, Zandile, Thato, Nkateko).           |
+| **Assignees /issue name (Text)**       | The stakeholder responsible for the task (Sontaga, Remo, Zandile, Thato, Nkateko).           |
 | **Label (Priority)**       | Priority level of the issue – High, Medium, or Low.                                          |
 | **Project Name**           | Constant for all entries: *Health & Wellness Support App.*                                   |
 | **Milestone / Date**       | The planned completion or milestone date aligned with the MS Project Gantt Chart.            |
