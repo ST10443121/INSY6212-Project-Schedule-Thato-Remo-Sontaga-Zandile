@@ -3,8 +3,7 @@
 Student Name: Thato Siyabonga Mthembu
 Student Number: ST10443121
 Module: INSY6212 – Information Systems (Project Management)
-Lecturer: Mr Gustave Bok
-Date: October 2025
+Date: 10 October 2025
 
 🧭 Purpose of this Repository
 
